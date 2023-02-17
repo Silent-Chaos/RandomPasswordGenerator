@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(76, 245, 222);
+    text-align: center;
+    height: 100vh;
+}
+button{
+    border-radius: 5px;
+    height: 33px;
+    color: rgb(23, 125, 184);
+    background-color: rgb(44, 187, 168);
+    border: none;
+    cursor: pointer;
+    width: 170px;
+    margin: 10px 0;
+}
+
