@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 margin-top:-100px ;   
 position: absolute;
@@ -148,3 +149,23 @@ top: 335px;
 left:165px ;
 
 }
+=======
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(76, 245, 222);
+    text-align: center;
+    height: 100vh;
+}
+button{
+    border-radius: 5px;
+    height: 33px;
+    color: rgb(23, 125, 184);
+    background-color: rgb(44, 187, 168);
+    border: none;
+    cursor: pointer;
+    width: 170px;
+    margin: 10px 0;
+}
+
+>>>>>>> e61cca6d45a8028f4861df167cc68bcd20cb0366
