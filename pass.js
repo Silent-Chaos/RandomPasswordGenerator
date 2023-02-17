@@ -19,7 +19,6 @@ function genranpass(){
 }
     return randompassword
 }
-let randpassword=genranpass()
  
 function genpass2() 
 {
@@ -30,10 +29,13 @@ function genpass2()
 }
     return randompassword1
 }
-let randpassword1=genranpass()
 
 
 PassBtn.addEventListener('click',function(){
+    let randpassword1=genranpass()
+    let randpassword=genranpass()
+
+
     passw1.textContent=randpassword
     passw2.textContent=randpassword1
 
