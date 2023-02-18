@@ -5,6 +5,17 @@ let PassBtn=document.getElementById("pass-btn")
 let passw1=document.getElementById("passa")
 let passw2=document.getElementById("passb")
 let length=15
+let DD=document.getElementById("dropdown")
+let    seven     = document.getElementById("sev")
+let    eight= document.getElementById("eig")
+let    nine     = document.getElementById("nin")
+let    TEN     = document.getElementById("ten")
+let   eleven      = document.getElementById("ele")
+let    twelve     = document.getElementById("twe")
+let       thirteen  = document.getElementById("thi")
+let         fourteen= document.getElementById("fou")
+let         fifteen= document.getElementById("fif")
+
 function racar(){
 let randchar=Math.floor(Math.random()*characters.length)
 
